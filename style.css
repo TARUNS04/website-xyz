@@ -69,12 +69,12 @@ html{
     border-radius: 9px;
 }
 .background1{
-    background: rgba(34, 34, 34, 0.7) url('../image/bg.jpg');
+    background: rgba(34, 34, 34, 0.7) url('bg.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 .background{
-    background: rgba(34, 34, 34, 0.7) url('../image/bg.jpg');
+    background: rgba(34, 34, 34, 0.7) url('bg.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
